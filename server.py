@@ -21,7 +21,7 @@ server_connections = {
     "Campbell":["Bernard", "Juzang"], 
     "Bernard":["Jaquez", "Juzang", "Campbell"]
 } 
-google_places_api_key = "AIzaSyA_Jk4JRNGgIAz-hB9to5EoRA84nBTPeJU"
+google_places_api_key = "" # REDACTED
 
 class Server: 
     def __init__(self, name, ip='127.0.0.1'):
